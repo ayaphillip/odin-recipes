@@ -2,4 +2,4 @@
 
 This is my recipes project that is a part of The Odin Project's curriculum.
 
-I will be implementing the basic knowledge I have of HTML and CSS to create a recipes website. It also consists of Git commits command to better my practice of noting down changes.
+I will be displaying my knowledge I have for HTML. I will not be incorporating much CSS since I want this project to have a HTML focus.
